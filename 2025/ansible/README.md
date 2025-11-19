@@ -1,4 +1,6 @@
+
 # Week 9: Ansible Automation Challenge
+Hello Everyone
 
 This set of tasks is part of the 90DaysOfDevOps challenge and focuses on solving real-world automation problems using Ansible. By completing these tasks on your designated Ansible project repository, you'll work on scenarios that mirror production environments and industry practices. The tasks cover installation, dynamic inventory management, robust playbook development, role organization, secure secret management, and orchestration of multi-tier applications. Your work will help you build practical skills and prepare for technical interviews.
 
